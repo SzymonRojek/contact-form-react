@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/contact-form-react/static/css/main.418ec141.chunk.css",
+    "main.js": "/contact-form-react/static/js/main.349b224f.chunk.js",
+    "main.js.map": "/contact-form-react/static/js/main.349b224f.chunk.js.map",
+    "runtime-main.js": "/contact-form-react/static/js/runtime-main.3dd14221.js",
+    "runtime-main.js.map": "/contact-form-react/static/js/runtime-main.3dd14221.js.map",
+    "static/js/2.a2bad0e6.chunk.js": "/contact-form-react/static/js/2.a2bad0e6.chunk.js",
+    "static/js/2.a2bad0e6.chunk.js.map": "/contact-form-react/static/js/2.a2bad0e6.chunk.js.map",
+    "index.html": "/contact-form-react/index.html",
+    "static/css/main.418ec141.chunk.css.map": "/contact-form-react/static/css/main.418ec141.chunk.css.map",
+    "static/js/2.a2bad0e6.chunk.js.LICENSE.txt": "/contact-form-react/static/js/2.a2bad0e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dd14221.js",
+    "static/js/2.a2bad0e6.chunk.js",
+    "static/css/main.418ec141.chunk.css",
+    "static/js/main.349b224f.chunk.js"
+  ]
+}
