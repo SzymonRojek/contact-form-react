@@ -1,6 +1,6 @@
 import { textareaValidation } from "../../../../../validateForm";
 
-const Textarea = ({ register, errors, styledError }) => (
+const TextareaInput = ({ register, errors, styledError }) => (
   <div className="form-control-wrapper">
     <label className="form-label" htmlFor="description">
       Description:
@@ -17,4 +17,4 @@ const Textarea = ({ register, errors, styledError }) => (
   </div>
 );
 
-export default Textarea;
+export default TextareaInput;

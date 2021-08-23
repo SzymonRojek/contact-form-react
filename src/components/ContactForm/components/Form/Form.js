@@ -3,8 +3,8 @@ import { useForm } from "react-hook-form";
 import {
   NameInput,
   SurnameInput,
-  Email,
-  Textarea,
+  EmailInput,
+  TextareaInput,
   RadioInput,
   Checkbox,
 } from "./FormControl";
@@ -46,9 +46,13 @@ const Form = ({ setIsSubmitted }) => {
           styledError={styledError}
         />
 
-        <Email register={register} errors={errors} styledError={styledError} />
+        <EmailInput
+          register={register}
+          errors={errors}
+          styledError={styledError}
+        />
 
-        <Textarea
+        <TextareaInput
           register={register}
           errors={errors}
           styledError={styledError}
